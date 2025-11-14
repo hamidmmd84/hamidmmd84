@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm a Computer Engineering student with a strong interest in software development and web technologies.  
+I have experience working with **Java, Python, HTML, CSS, and JavaScript**, and I enjoy building projects that help me improve my skills and learn new concepts.
+
+### 🛠️ Languages & Tools  
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js)](https://skillicons.dev)
+
+I'm always learning new technologies and expanding my knowledge as I move forward in my journey as a developer.  
+Feel free to explore my repositories and follow my progress
+
 <!--
 **hamidmmd84/hamidmmd84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
