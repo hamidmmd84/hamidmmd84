@@ -1,25 +1,102 @@
-## Hi there 👋
+<div align="center">
 
-I'm a Computer Engineering student with a strong interest in software development and web technologies.  
-I have experience working with **Java, Python, HTML, CSS, and JavaScript**, and I enjoy building projects that help me improve my skills and learn new concepts.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,30:2563eb,70:3b82f6,100:60a5fa&text=Hamid&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55"/>
 
-### 🛠️ Languages & Tools  
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js)](https://skillicons.dev)
+# 👋 Hi, I'm Hamid
 
-I'm always learning new technologies and expanding my knowledge as I move forward in my journey as a developer.  
-Feel free to explore my repositories and follow my progress
+### Computer Engineering Student • Passionate Programmer
 
-<!--
-**hamidmmd84/hamidmmd84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Python+Developer;Java+Developer;Web+Developer;Always+Learning+New+Things"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+```text
+🎓 Computer Engineering Student
+
+💻 Passionate about Software Development
+
+🌱 Currently learning JavaScript & React
+
+🤖 Interested in Artificial Intelligence
+
+🎯 Goal: Become a Full-Stack Software Engineer
+```
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&perline=4"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hamidmmd84&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidmmd84&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=hamidmmd84&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidmmd84&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+- JavaScript
+- React
+- Backend Development
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/hamidmmd84">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=hamidmmd84&style=for-the-badge&color=3b82f6)
+
+⭐ **Thanks for visiting my profile!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,30:2563eb,70:3b82f6,100:60a5fa"/>
+
+</div>
