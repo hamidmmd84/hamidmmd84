@@ -54,7 +54,6 @@ I'm passionate about Web Development and Artificial Intelligence, and I enjoy bu
 
 ---
 
-## 🐍 Contribution Snake
 
 <p align="center">
 
