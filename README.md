@@ -4,11 +4,8 @@
 
 # Hi 👋 I'm Hamid
 
-### Computer Engineering Student
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
