@@ -1,11 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=gradient&customColorList=24,25,26,27,28&text=Hamid&fontSize=58&fontColor=F8FAFC&fontAlignY=42&desc=Computer%20Engineering%20Student&descAlignY=63&descSize=18&animation=fade"/>
-
-# Hi 👋, I'm Hamid
-
-> **Computer Engineering Student • Software Development • Artificial Intelligence**
-
+  <img src="./assets/banner.svg" width="100%" alt="Hamid Banner">
 </div>
 
 ---
