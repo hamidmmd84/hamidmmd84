@@ -28,8 +28,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117"/>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0D1117"/>
 
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117"/>
@@ -42,14 +40,10 @@
 
 ---
 
----
-
 ## 📚 Languages Overview
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidmmd84&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidmmd84&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
